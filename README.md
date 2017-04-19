@@ -14,3 +14,7 @@ open up a command prompt and type "java -jar < path to the sss.jar >" and hit en
 then the program will get execute. 
 All the necessary library files are there in the folder called "lib"
 
+
+blog link http://securityvibes.blogspot.com/2017/04/encryption-decryption.html
+
+
